@@ -1,5 +1,5 @@
 # Description
-This is a Phone directory made using C language.<br>
+This is a Phone directory made using C language.
 Pdf file contains a brief presentation about the project while the C file is the source-code.<br>
 Development tool: VS-Code
 
