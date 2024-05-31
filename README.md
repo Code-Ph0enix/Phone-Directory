@@ -7,4 +7,5 @@ Development tool: VS-Code
 # Features:
 -> Name input taken as first name and last name.<br>
 -> If repeated name occurs, then display all details of such name.<br>
--> Unavailability shown if non-existent name searched in the directory.
+-> Unavailability shown if non-existent name searched in the directory.<br>
+-> c language used for simplicity and easy understanding.
